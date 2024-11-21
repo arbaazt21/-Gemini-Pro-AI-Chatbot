@@ -2,7 +2,7 @@
 
 Gemini-Pro AI Chatbot is an intelligent conversational AI powered by Google GeminiPro, integrated into a user-friendly Streamlit interface. This project enables seamless interactions with the Gemini-Pro model for generating dynamic and insightful responses to user queries.
 
-Ask anything to my CHATBOT -->>> [CLick](https://gemini-pro-ai-chatbot.onrender.com)
+Ask anything to my CHATBOT -->>> [Click](https://gemini-pro-ai-chatbot.onrender.com)
 
 
 ## 📋 Features
