@@ -93,6 +93,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## ✉️ Contact
 For questions or feedback, reach out via [arbaazt2002@gmail.com].
-
-
-Replace placeholders like `yourusername`, `your_google_api_key`, and `your_email@example.com` with your actual GitHub username, API key, and contact information. Add a `LICENSE` file if you plan to include one.
