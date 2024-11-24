@@ -1,8 +1,8 @@
 import os
 
-import streamlit as st
+import streamlit as st # type: ignore
 from dotenv import load_dotenv
-import google.generativeai as gen_ai
+import google.generativeai as gen_ai # type: ignore
 
 # load environment variables
 load_dotenv()
