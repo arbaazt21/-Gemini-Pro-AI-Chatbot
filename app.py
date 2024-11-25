@@ -1,11 +1,14 @@
 import os
-
 import streamlit as st # type: ignore
-from dotenv import load_dotenv
 import google.generativeai as gen_ai # type: ignore
-
+from dotenv import load_dotenv
 # load environment variables
 load_dotenv()
+
+#Ensuring it will run on Streamlit Cloud
+header = {
+    "authorization": st.secrets["api_key"]
+}
 
 # Configure Streamlit page setting
 st.set_page_config(
