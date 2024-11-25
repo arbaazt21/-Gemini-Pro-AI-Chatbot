@@ -5,12 +5,6 @@ from dotenv import load_dotenv
 # load environment variables
 load_dotenv()
 
-#Ensuring it will run on Streamlit Cloud
-header = {
-    "authorization":st.secrets["api_key"],
-    "content_type":"application"
-}
-
 # Configure Streamlit page setting
 st.set_page_config(
     page_title="Chat with GeminiPro", 
